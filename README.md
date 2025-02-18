@@ -2,6 +2,10 @@
 <h3 align="center">💻 Junior Test Automation Engineer | Learning, testing, and automating</h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF">
+</p>
+
+<p align="center">
   Passionate about test automation, exploring new technologies, and improving software quality.
 </p>
 
@@ -63,6 +67,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50"/>
   </a>
 </p>
+
 
 
 

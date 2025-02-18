@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">💻 Junior Test Automation Engineer 🔹 Writing automated tests and exploring new tools 🔹 Gradually filling my repository with projects</h3>
+<h3 align="center">💻 Junior Test Automation Engineer 
+🔹 Writing automated tests and exploring new tools 
+🔹 Gradually filling my repository with projects</h3>
 
 - 📫 How to reach me **navanihoda@mail.ru**
 

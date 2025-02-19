@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">💻 Junior Test Automation Engineer | Learning, testing, and automating</h3>
+<h3 align="center">💻 Junior Test Automation Engineer | Building reliable and scalable testing solutions</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF">
 </p>
 
 <p align="center">
-  Developing test automation skills to ensure software reliability.
+  Focused on writing efficient test automation, enhancing software quality, and staying ahead with evolving technologies.
 </p>
 
 ---
@@ -36,10 +36,10 @@
 ---
 
 ### 🚀 About Me:
-- 🔹 I enjoy automating processes and making testing more efficient  
-- 🔹 Currently improving my skills in test automation and CI/CD  
-- 🔹 Open to new opportunities and collaborations in QA Automation  
-- 🔹 Always looking for ways to improve testing workflows  
+- 🔹 Automating tests to ensure seamless software performance  
+- 🔹 Constantly refining my skills in test automation and CI/CD  
+- 🔹 Open to new challenges and collaborations in QA Automation  
+- 🔹 Always exploring new tools to enhance testing efficiency  
 
 ---
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">💻 Junior Test Automation Engineer | Building reliable and scalable testing solutions</h3>
+<h3 align="center">💻Test Automation Engineer | Building reliable and scalable testing solutions</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF">
